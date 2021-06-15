@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hasanaltin
+- 👋 Hi, I’m Hasan Altin
 - 👀 I’m interested in Powershell
 - 🌱 I’m currently learning Powershell
 
