@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hasan Altin
 - 👀 I’m interested in Powershell
-- 🌱 I’m currently learning Powershell
 
 <!---
 hasanaltin/hasanaltin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
